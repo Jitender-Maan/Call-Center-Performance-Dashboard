@@ -1,2 +1,4 @@
-# Call-Center-Performance-Dashboard
-Excel dashboard analyzing 5,000 call center records. Built with Pivot Tables, Slicers, and Charts. Tracks answer rate, resolution rate, agent performance, and department-wise call volume.
+# Call Center Performance Dashboard
+Built in Microsoft Excel using Pivot Tables and Slicers.
+Analysed 5,000 call records across departments and agents.
+Key metrics: 81% answer rate, 73% resolution rate.
