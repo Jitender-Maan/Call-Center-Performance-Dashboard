@@ -1,4 +1,4 @@
-# Call Center Performance Dashboard
+# Call Center Performance Dashboard — Excel
 
 An interactive Excel dashboard analysing 5,000 call center records.
 
