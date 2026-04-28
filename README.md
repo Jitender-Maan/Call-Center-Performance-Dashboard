@@ -13,3 +13,7 @@ An interactive Excel dashboard analysing 5,000 call center records.
 
 ## Dashboard Preview
 ![Dashboard](dashboard-preview.png)
+
+## Author
+Jitender | MIS Executive → Data Analyst 
+| Data Analyst Portfolio | 2026
